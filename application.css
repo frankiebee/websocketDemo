@@ -1,0 +1,30 @@
+html{
+  background-color: #ccc
+}
+body{
+  margin-left: 275px;
+}
+.colorbox{
+  height:48.015px;
+  width: 48.015px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000;
+}
+#drawing-canvas{
+  background-color: #fff;
+  position: absolute;
+  top: 160px;
+  float: left;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #000;
+
+}
+#colorholder{
+  position: absolute;
+  top:100;
+}
+p {
+  margin-bottom: 0;
+}
